@@ -1,0 +1,11 @@
+{
+  "name": "topes-mcgotes",
+  "version": "1.0.0",
+  "description": "Find government topo maps so you don't get lost in the woods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Sitter",
+  "license": "ISC"
+}
